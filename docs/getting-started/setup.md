@@ -9,22 +9,22 @@ Provides a step-by-step guide to setup Oceanology requirments. If you need help 
 Before jumping into it lets create a new Unreal third person sample project. You may name it what you wish.
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-4.webp)
+  ![step-3](/assets/images/step-4.jpg)
   <figcaption>Lets create a test project. Next we have to update the defaultengine.ini file.</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-5.webp)
+  ![step-3](/assets/images/step-5.jpg)
   <figcaption>Navigate to file explorer and find your project root</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-6.webp)
+  ![step-3](/assets/images/step-6.jpg)
   <figcaption>Open Config folder and open DefaultEngine.ini.</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-7.webp)
+  ![step-3](/assets/images/step-7.jpg)
   <figcaption>Find Engine.RendererSettings section and update it as following</figcaption>
 </figure>
 
@@ -54,27 +54,27 @@ Next open your project you created above from the launcher and navigate to the p
 ---
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-9.webp)
+  ![step-3](/assets/images/step-9.jpg)
   <figcaption>Navigate to the plugin settings</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-10.webp)
+  ![step-3](/assets/images/step-10.jpg)
   <figcaption>Look for the Oceanology and enable it</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-11.webp)
+  ![step-3](/assets/images/step-11.jpg)
   <figcaption>Restart when prompted</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-12.webp)
+  ![step-3](/assets/images/step-12.jpg)
   <figcaption>Enable plugin content visibility as these may be hidden by default.</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](/assets/images/step-13.webp)
+  ![step-3](/assets/images/step-13.jpg)
   <figcaption>Navigate to plugin content for demo levels and files</figcaption>
 </figure>
 
@@ -95,25 +95,25 @@ DefaultEngine.ini
 This step will run you through how to install the plugin to unreal engine.
 
 <figure markdown="span">
-  ![step-1](./assets/images/step-1.webp)
+  ![step-1](./assets/images/step-1.jpg)
   <figcaption>Open Launcher and navigate to the library section then look for Oceanology plugin</figcaption>
 </figure>
 
 
 <figure markdown="span">
-  ![step-2](./assets/images/step-2.webp)
+  ![step-2](./assets/images/step-2.jpg)
   <figcaption>Once the engine version is selected, the installation of the add-on will begin.</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![step-3](./assets/images/step-3.webp)
+  ![step-3](./assets/images/step-3.jpg)
   <figcaption>Installation of the add-on will begin.</figcaption>
 </figure>
 
 ## Process #3: Using Oceanology
 
 <figure markdown="span">
-  ![step-3](./assets/images/step-4.webp)
+  ![step-3](./assets/images/step-4.jpg)
   <figcaption>Lets create a test project.</figcaption>
 </figure>
 
