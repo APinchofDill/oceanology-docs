@@ -1,4 +1,4 @@
-# Oceanology 5.1 Documentation
+# Oceanology 5.1.2 Documentation
 
 Welcome to the **Oceanology 5** documentation! This resource is designed to help you explore and utilize the Oceanology plugin for Unreal Engine, which brings stunning ocean environments and realistic water simulation to your projects.
 

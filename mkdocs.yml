@@ -18,6 +18,7 @@ theme:
   favicon: ./assets/images/logo.jpg
   logo: ./assets/images/logo.jpg
   name: material
+  custom_dir: overrides
   palette:
     primary: black
     scheme: slate
