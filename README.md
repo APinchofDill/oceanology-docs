@@ -65,6 +65,6 @@ Make sure your repository settings have GitHub Pages configured to serve from th
 mkdocs.yml    # The configuration file
 ```
 
-## License
+### Made with ❤️ and ☕
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project was made with love and fueled by coffee.
