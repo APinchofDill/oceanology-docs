@@ -36,10 +36,21 @@ This will create a `site` directory containing the built static site.
 
 To deploy to GitHub Pages:
 
+
+For latest (x.x.x)
+```
+mike deploy --push --update-aliases vx.x.x latest
+```
+
+For non latest (x.x.x)
 ```
 mike deploy --push --update-aliases vx.x.x
 ```
 
+Set latest (only once)
+```
+mike set-default --push latest
+```
 mkdocs deploy command but we are using versioning so avoid this command.
 ```
 mkdocs gh-deploy --force
