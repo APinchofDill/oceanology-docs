@@ -1,4 +1,4 @@
-# Oceanology 5 Documentation
+# Oceanology 5.1 Documentation
 
 Welcome to the **Oceanology 5** documentation! This resource is designed to help you explore and utilize the Oceanology plugin for Unreal Engine, which brings stunning ocean environments and realistic water simulation to your projects.
 
@@ -18,7 +18,7 @@ Oceanology is a powerful Unreal Engine plugin that allows developers to create d
 To get started with Oceanology, follow these steps:
 
 1. **[Purchase Oceanology](https://www.unrealengine.com/marketplace/en-US/product/oceanology)** from the Unreal Engine Marketplace.
-2. **Install the Plugin:** Follow the installation instructions [here](./getting-started-install.md)
+2. **Install the Plugin:** Follow the installation instructions [here](./getting-started/installation.md)
 3. **Explore the Documentation:** Use this documentation to learn about all the features and functionalities of Oceanology.
 
 ## Documentation Overview

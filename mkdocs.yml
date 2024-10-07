@@ -1,5 +1,11 @@
 site_name: Oceanology Docs
-site_url: https://oceanology.github.io
+site_url: https://apinchofdill.github.io/oceanology-docs
+
+# Repository
+repo_name: APinchofDill/oceanology-docs
+repo_url: https://github.com/APinchofDill/oceanology-docs
+edit_uri: ""
+
 # Plugins
 plugins:
   - offline
@@ -26,6 +32,7 @@ theme:
     #     icon: material/brightness-7 
     #     name: Switch to dark mode
   features:
+    - navigation.path
     - navigation.tabs
     - navigation.path
     - navigation.footer
@@ -69,3 +76,5 @@ extra:
     json: [.s2]
   version:
     provider: mike
+extra_css:
+  - ./assets/stylesheets/extra.css
